@@ -134,7 +134,7 @@ Placement_Fairness_Dashboard/
 
 ---
 
-## 🚀 Step-by-Step Installation & Local Setup
+## 🚀 Installation & Local Setup
 
 ### 1. Clone the Repository
 
@@ -197,7 +197,7 @@ This project is built with a modular structure, allowing you to easily scale or 
 
 ## 👤 Author & Professional Links
 
-**Dipsankar Chakraborty**
+**Dipsankar Chakraborty(Dipsankar-cse)**
 
 *Computer Science & Engineering Graduate | MIS & Data Operations Executive*
 
